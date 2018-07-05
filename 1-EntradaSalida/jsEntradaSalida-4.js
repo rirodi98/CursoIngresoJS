@@ -3,7 +3,9 @@
 	y lo muestro por 'getElementById' al presionar el botón 'mostrar'
 */
 function mostrar()
-{var dato1 = document.getElementById.value ("elNombre").value;
+{var dato1 = prompt ("Ingrese un dato");
+ document.getElementById ("elNombre").value = dato1;
+ 
 
 	
 }
