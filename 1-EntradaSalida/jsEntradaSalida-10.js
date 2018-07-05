@@ -12,3 +12,4 @@ resultado = importe - descuento;
 alert ("el resultado es " + resultado)
 	
 }
+/* Resuelto jaja */
